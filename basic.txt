@@ -12,3 +12,10 @@
 
 // git commit -m "메시지 입력"
 // : 로컬 리포지토리에 기록
+
+// 원격 주소를 사용 로컬 저장소 - 원격 저장소 연결
+// git remote add origin 원격주소지URL
+// git remote add origin https://github.com/seungalee314/git-0503-lsa.git
+
+// 로컬의 데이터 >> 원격에 저장
+// git push origin master
